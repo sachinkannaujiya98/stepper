@@ -1,0 +1,35 @@
+.additional {
+  /* justify-content: center; */
+  /* align-items: center; */
+  width: 80%;
+  height: 80vh;
+  /* background-color: aqua; */
+
+  margin-left: 160px;
+  margin-top: 20px;
+}
+.radio-btn {
+  margin-top: 10px;
+}
+.additional_btns {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin-bottom: 30px;
+  height: 50px;
+  width: 100%;
+  background-color: rgb(223, 230, 230);
+}
+.additional_btn button {
+  padding: 8px;
+  width: 83px;
+  margin-left: 20px;
+
+  background-color: blue;
+  color: aliceblue;
+  font-weight: 500;
+  font-size: 16px;
+  border-radius: 6px;
+  outline: none;
+  border: none;
+}

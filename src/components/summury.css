@@ -1,0 +1,41 @@
+.summury {
+  width: 80%;
+  height: 80vh;
+  /* background-color: aqua; */
+
+  margin-left: 160px;
+  margin-top: 20px;
+}
+.name_cntainer {
+  width: 100%;
+  height: 50px;
+  margin-top: 40px;
+}
+.details {
+  display: flex;
+  justify-content: space-around;
+
+  /* margin-left: 20px; */
+  margin-right: 150px;
+}
+.summury_btns {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+
+  height: 50px;
+  width: 100%;
+  background-color: rgb(223, 230, 230);
+}
+.summury_btns button {
+  padding: 8px;
+  width: 83px;
+  margin-left: 20px;
+  background-color: blue;
+  color: aliceblue;
+  font-weight: 500;
+  font-size: 16px;
+  border-radius: 6px;
+  outline: none;
+  border: none;
+}

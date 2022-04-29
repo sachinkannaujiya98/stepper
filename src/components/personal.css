@@ -1,0 +1,99 @@
+.name_container {
+  display: flex;
+  align-items: center;
+  /* justify-content: stretch; */
+  gap: 20px;
+  margin-left: 242px;
+  width: 803px;
+  margin-top: 35px;
+}
+
+.name_field {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+input {
+  height: 30px;
+  border-radius: 6px;
+  border: 1px solid gray;
+  margin-bottom: 24px;
+  outline: none;
+}
+.email_container {
+  margin-left: 242px;
+}
+.email_field {
+  display: flex;
+  flex-direction: column;
+}
+.email_field input {
+  /* height: 30px; */
+  width: 454px;
+}
+.country_container {
+  margin-left: 242px;
+}
+
+.country_field {
+  display: flex;
+  flex-direction: column;
+  width: 401px;
+  height: 30px;
+  display: flex;
+  flex-direction: column;
+  width: 454px;
+}
+.country_field select {
+  padding: 8px;
+  border-radius: 6px;
+  background-color: white;
+  outline: none;
+}
+.address_container {
+  margin-left: 242px;
+}
+
+.address_field {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  margin-top: 49px;
+  width: 60%;
+  display: flex;
+  flex-direction: column;
+}
+.city_container {
+  display: flex;
+  align-items: center;
+  /* justify-content: stretch; */
+  gap: 20px;
+  margin-left: 242px;
+  width: 803px;
+  margin-top: 20px;
+}
+.city_field {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.btn_div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 242px;
+  height: 50px;
+  width: 80%;
+  background-color: rgb(223, 230, 230);
+}
+.btn button {
+  padding: 8px;
+  width: 83px;
+  background-color: blue;
+  color: aliceblue;
+  font-weight: 500;
+  font-size: 16px;
+  border-radius: 6px;
+  outline: none;
+  border: none;
+}

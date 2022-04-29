@@ -1,0 +1,11 @@
+.app {
+  width: 57%;
+  margin-top: 20px;
+  margin-left: 272px;
+}
+.show {
+  display: block;
+}
+.hide {
+  display: none;
+}
